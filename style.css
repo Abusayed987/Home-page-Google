@@ -134,6 +134,11 @@ section footer .row ul li a{
     color: #5f6368;
     margin-right: 25px;
 }
+section footer .row .copy em{
+    color: #55595d;
+    font-size: 14px;
+}
+
 /* END Footer-------------------------------
 ----------------------------------------- */
 
@@ -156,6 +161,9 @@ section footer .row ul li a{
     }
     section footer .row ul{
         display: block;
+    }
+    section footer .row .copy{
+        margin-top: 30px;
     }
 }
 
